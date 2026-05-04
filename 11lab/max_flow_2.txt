@@ -1,0 +1,9 @@
+directed weighted
+S A 10
+S B 5
+A B 4
+A C 8
+B D 7
+C T 6
+D C 3
+D T 9
